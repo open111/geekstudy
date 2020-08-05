@@ -22,5 +22,5 @@ print(verbs.status_code)
 verbs1 = requests.options('http://a-good-website.com/api/cats')
 print(verbs1.headers['Server'])
 
-
+print("test")
     
